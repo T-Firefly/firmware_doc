@@ -4,6 +4,19 @@
 # Firmware update log
 
 
+## 2020-11-02
+
+**AIO-3288J-BUILDROOT-GPT-20201102-1150.img.7z**
+
+* COMMIT:
+	* rk3288-linux-bundle: ccdcd0401f24e41d8508fda29495670e6daf6e03
+	* common-linux-bundle: 11.bundle
+* MD5: fcb054c3a6b182c60b8913385a7596be
+
+**Update content:**
+
+SDK Update
+
 ## 2020-07-07
 
 **AIO-3288J-BUILDROOT-GPT-20200706-1526.img.7z**

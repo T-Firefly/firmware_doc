@@ -4,6 +4,19 @@
 # Firmware update log
 
 
+## 2020-11-02
+
+**FIREFLY-RK3288-BUILDROOT-GPT-20201102-1152.img.7z**
+
+* COMMIT:
+	* rk3288-linux-bundle: ccdcd0401f24e41d8508fda29495670e6daf6e03
+	* common-linux-bundle: 11.bundle
+* MD5: 5324c0a646344d5a23c3881311cf7b89
+
+**Update content:**
+
+SDK Update
+
 ## 2020-07-07
 
 **FIREFLY-RK3288-BUILDROOT-GPT-20200706-1534.img.7z**

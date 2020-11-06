@@ -4,6 +4,20 @@
 # Firmware update log
 
 
+## 2020-11-02
+
+**AIO-3288J-UBUNTU18.04-GPT-20201102-1450.img.7z**
+
+* COMMIT:
+	* rk3288-linux-bundle: ccdcd0401f24e41d8508fda29495670e6daf6e03
+	* common-linux-bundle: 11.bundle
+* MD5: 471e073377173254c8c5c9cdeb8e314d
+* FS: rk3288_ubuntu_18.04_armhf_ext4_v2.03_20200616-1419_DESKTOP.img
+
+**Update content:**
+
+SDK Update
+
 ## 2020-07-07
 
 **AIO-3288J-UBUNTU18.04-GPT-20200707-1552.img.7z**
