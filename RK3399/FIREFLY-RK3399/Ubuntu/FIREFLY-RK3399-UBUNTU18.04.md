@@ -4,6 +4,24 @@
 # Firmware update log
 
 
+## 2021-04-12
+**FIREFLY-RK3399-UBUNTU-RK3399_UBUNTU_18.04_DESKTOP-GPT-20210408-1811.img.7z**
+* NAME： FIREFLY-RK3399-UBUNTU-RK3399_UBUNTU_18.04_DESKTOP-GPT-20210408-1811.img.7z
+* MD5：
+```
+adfcd9074cc2cf0e55fb5499fcea39ce FIREFLY-RK3399-UBUNTU-RK3399_UBUNTU_18.04_DESKTOP-GPT-20210408-1811.img.7z
+```
+* COMMIT：
+    * kernel: 84223e13aa4344080ca3adeba1f2e7dd45951010
+* FS:
+    ubuntu_18.04_arm64_ext4_v2.04-1-g618089a_20210316-1035_DESKTOP.img
+
+**Update content:**
+1. Fix the problem that the delay time of the network gmac node does not match
+2. Fix the file system audio and video dependency problem
+3. Fix some problems with the camera
+
+
 **FIREFLY-RK3399-UBUNTU18.04-MINIMAL-GPT-20200723-1629.img.7z**
 * NAME： FIREFLY-RK3399-UBUNTU18.04-MINIMAL-GPT-20200723-1629.img.7z
 * MD5： 48b7fae6571d8f62ea9a175fe47330e2

@@ -5,6 +5,24 @@
 # Firmware update log
 
 
+## 2021-04-12
+**AIO-3399J-*.img.7z**
+* NAME： AIO-3399J-*.img.7z
+* MD5：
+```
+dd8a5dcfd41a09839b6198bab6111717 AIO-3399J-LVDS-UBUNTU-RK3399_UBUNTU_18.04_DESKTOP-GPT-20210408-1809.img.7z
+7dfe9ef2657494b523b8c3e3d54bfed4 AIO-3399J-UBUNTU-RK3399_UBUNTU_18.04_DESKTOP-GPT-20210408-1810.img.7z
+```
+* COMMIT：
+    * kernel: 84223e13aa4344080ca3adeba1f2e7dd45951010
+* FS:
+    ubuntu_18.04_arm64_ext4_v2.04-1-g618089a_20210316-1035_DESKTOP.img
+
+**Update content:**
+1. Fix the problem that the delay time of the network gmac node does not match
+2. Fix the file system audio and video dependency problem
+3. Fix some problems with the camera
+
 ## 2020-07-23
 
 **AIO-3399J-UBUNTU18.04-MINIMAL-GPT-20200723-1645.img.7z**
